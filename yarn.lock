@@ -7174,10 +7174,10 @@ next-tinacms-github@0.2.0:
     qs "6.9.3"
     uuid "^8.1.0"
 
-next-tinacms-markdown@^0.2.21:
-  version "0.2.21"
-  resolved "https://registry.yarnpkg.com/next-tinacms-markdown/-/next-tinacms-markdown-0.2.21.tgz#cd67a583cf1a120a83651325bea8afecb7191fa0"
-  integrity sha512-8ejWRySOTQAa9U/WFBJSrzW5Ms3r0JKOGE1zlXWJ4xC66nczstlRki2KZeu8cUBaZLNkUIPhSb23oJNv6iDgRQ==
+next-tinacms-markdown@^0.40.0:
+  version "0.40.0"
+  resolved "https://registry.yarnpkg.com/next-tinacms-markdown/-/next-tinacms-markdown-0.40.0.tgz#84d5dd06ce850c7cc127116a5245e85bc0f56d53"
+  integrity sha512-b5GfMjOp/BCt6yGm3PTXzc2T40L8mnTrIrpsQh58B1nh260HIhMy1k3fbS3P23Pgvx+q9m/+pYN/OqbQshwzxQ==
   dependencies:
     gray-matter "^4.0.2"
     js-yaml "^3.13.1"
@@ -8671,14 +8671,14 @@ react-tinacms-editor@0.8.0:
     prosemirror-view "^1.11.3"
     react-dismissible "^1.2.0"
 
-react-tinacms-github@0.5.0:
-  version "0.5.0"
-  resolved "https://registry.yarnpkg.com/react-tinacms-github/-/react-tinacms-github-0.5.0.tgz#b481e24eb5db88ba1181d5eafa17c23f234cbc2c"
-  integrity sha512-cALdX4jxUc7PyNufhqYB1d+BfkhHIDp3npF3Xlxt4zLEgtw4V3RgdkhKSfF31nZn7JSCpTNe/V58j2L+1QdQqQ==
+react-tinacms-github@0.40.0:
+  version "0.40.0"
+  resolved "https://registry.yarnpkg.com/react-tinacms-github/-/react-tinacms-github-0.40.0.tgz#bdb5fd1f67b016dedd154e969a4b57f2034824cc"
+  integrity sha512-rVyOZZ9B587avam3XPWWG9uOOfXzJqG6fYzfDHg3cW1ElZbPXfJ6i9IA0FgHc/Za7/6209eifc+OpLF3A1Lyyg==
   dependencies:
     btoa "^1.2.1"
     js-cookie "^2.2.1"
-    next-tinacms-markdown "^0.2.21"
+    next-tinacms-markdown "^0.40.0"
 
 react-tinacms-inline@0.7.0:
   version "0.7.0"
